@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Conectar.bmp</file>
+        <file>Conect.bmp</file>
+        <file>Conectar.png</file>
+        <file>connect.png</file>
+        <file>settings.png</file>
+        <file>Firtec_online_2.png</file>
+        <file>Futuro_Tecnologico.png</file>
+    </qresource>
+</RCC>
